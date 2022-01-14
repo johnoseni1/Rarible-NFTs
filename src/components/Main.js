@@ -25,7 +25,6 @@ class Main extends Component {
               <ReactTypingEffect
                 text={[
                   'Welcome to NFT Digital Art - X',
-                  'Presented by Elisha Day 🎓',
                   'Look around and choose the NFT you like',
                   'Click "Buy" to get UNIQUE 💎 NFT',
                   'Hurry up before all NFTs are sold out!',
