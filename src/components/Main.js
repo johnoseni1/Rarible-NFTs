@@ -226,7 +226,7 @@ class Main extends Component {
             </div>
           </div>
           <br></br>
-          <footer>
+          {/* <footer>
             {this.props.contract ? (
               <div style={{ color: '#8B8B8B', fontSize: '14px' }}>
                 NFT deployed at:&nbsp;
@@ -245,7 +245,7 @@ class Main extends Component {
             ) : (
               <div> Wrong network </div>
             )}
-          </footer>
+          </footer> */}
         </div>
       )
     } catch (e) {
