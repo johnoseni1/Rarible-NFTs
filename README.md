@@ -51,7 +51,7 @@ Restart Terminal**
 4. **Create Human readable link**
 </br>**[Use this site](https://bitly.com/)**
 
-## 📃 Instructions to publish on Surge:
+## Instructions to publish on Surge:
 0. **Create build directory (inside project directory):**
 </br>**```npm run build```**
 1. **Enter build directory:**
