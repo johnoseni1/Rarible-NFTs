@@ -38,7 +38,7 @@ Restart Terminal**
 </br>![MetaMask setting](https://i.gyazo.com/b34e8bec896844352e70a7382e1f18d4.png)
 
 
-## 📃 Instructions to publish on IPFS:
+## Instructions to publish on IPFS:
 0. **Run IPFS Node (if not running already)**
 </br>**```jsipfs daemon```**
 1. **Create build directory (inside project directory)**
