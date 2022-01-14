@@ -14,7 +14,7 @@ Restart Terminal**
 4. **Get project directory (in new terminal window):**
 </br>**```git clone https://github.com/johnoseni1/Rarible-NFTs.git```**
 5. **Enter project directory and install dependecies:**
-</br>**```cd nft_masterclass_1 && npm i```**
+</br>**```cd rarible-nft && npm i```**
 6. **Enter truffle developer mode:**
 </br>**```truffle develop```**
 7. **Migrate contracts (locally):**
