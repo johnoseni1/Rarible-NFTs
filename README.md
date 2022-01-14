@@ -12,7 +12,7 @@ Restart Terminal**
 3. **Run IPFS Node:**
 </br>**```jsipfs daemon```**
 4. **Get project directory (in new terminal window):**
-</br>**```git clone https://github.com/dappuniversity/nft_masterclass_1.git```**
+</br>**```git clone https://github.com/johnoseni1/Rarible-NFTs.git```**
 5. **Enter project directory and install dependecies:**
 </br>**```cd nft_masterclass_1 && npm i```**
 6. **Enter truffle developer mode:**
