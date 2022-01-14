@@ -1,8 +1,7 @@
 {
-  "name": "nft_masterclass",
+  "name": "rarible-bft",
   "version": "0.1.0",
   "description": "Digital Art Collectible",
-  "author": "Elisha Day",
   "homepage": ".",
   "dependencies": {
     "@openzeppelin/contracts": "3.4.0",
